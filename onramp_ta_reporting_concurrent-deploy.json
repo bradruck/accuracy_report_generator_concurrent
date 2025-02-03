@@ -1,0 +1,32 @@
+{
+  "deploy": {
+    "requestId": "onramp_ta_reporting_concurrent",
+    "id": "040218",
+    "command": "python main.py",
+    "containerInfo": {
+      "type": "DOCKER",
+      "docker": {
+        "image": "pdocker.valkyrie.net/odc-operations/onramp_ta_reporting_concurrent:v4",
+        "privileged": false,
+        "network": "BRIDGE",
+        "portMappings": [],
+        "forcePullImage": true,
+        "dockerParameters": []
+      },
+      "volumes": [
+        {
+          "containerPath": "/zfs/",
+          "hostPath": "/zfs1/",
+          "mode": "RW"
+        }
+      ]
+    },
+    "resources": {
+      "cpus": 1,
+      "memoryMb": 300,
+      "numPorts": 0,
+      "diskMb": 0
+    },
+    "shell": true
+  }
+}
