@@ -42,7 +42,7 @@ Primary Users:    <ul>
                   </ul>
 
 Lead Customer:    <ul>
-                  <li>James Minor (james.minor@oracle.com)
+                  <li>
                   </ul>
 
 Lead Developer:   <ul>
