@@ -20,25 +20,24 @@ Required modules: <ul>
                   </ul>
                   
 Deployed Loc:     <ul>
-                  <li>//prd-use1a-pr-34-ci-operations-01/home/bradley.ruck/Projects/campaign_management_ta_reporting/
-                  </ul>
+                  <li>
                   
 ActiveBatch:      <ul>
-                  <li>//prd-09-abjs-01 (V11)/'Jobs, Folders & Plans'/Operations/Report/CM_TA_Reporting/CM_Once_a_Week
+                  <li>
                   </ul>
 
 Source Code:      <ul>
-                  <li>gitlab.oracledatacloud.com/odc-operations/CM_TargetingAccuracy_Concurrent/
+                  <li>
                   </ul>
 
 LogFile Location: <ul>
-                  <li>zfs1/Operations_mounted/CampaignManagement/TargetingAccuracyReportLogs/
+                  <li>
                   </ul>
 
 **Contact Information -**
 
 Primary Users:    <ul>
-                  <li>Campaign Management
+                  <li>
                   </ul>
 
 Lead Customer:    <ul>
@@ -46,7 +45,7 @@ Lead Customer:    <ul>
                   </ul>
 
 Lead Developer:   <ul>
-                  <li>Bradley Ruck (bradley.ruck@oracle.com)
+                  <li>Bradley Ruck
                   </ul>
 
 Date Launched:    <ul>
